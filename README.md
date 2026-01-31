@@ -11,27 +11,33 @@ Melihat ringkasan pola perasaan dari waktu ke waktu
 Lumière tidak berfungsi sebagai alat diagnosis kesehatan mental, melainkan sebagai media refleksi pribadi yang bersifat preventif dan suportif.
 
 # ✨ Fitur Utama
-🔐 Autentikasi Pengguna
+- 🔐 Autentikasi Pengguna
 Login & Register menggunakan Firebase Authentication
 Akun tersimpan aman dan dapat digunakan di berbagai perangkat
-😊 Pemilihan Emosi
+
+- 😊 Pemilihan Emosi
 Pengguna memilih emosi yang paling menggambarkan perasaan saat ini
 Contoh: senang, tenang, sedih, cemas, dll
-📝 Refleksi & Journaling
+
+- 📝 Refleksi & Journaling
 Pertanyaan reflektif singkat sebagai pemicu penulisan
 Pengguna bebas menuliskan curahan perasaan
 Data disimpan per tanggal dan emosi
-🕒 Timeline Refleksi
+
+- 🕒 Timeline Refleksi
 Menampilkan riwayat refleksi pengguna
 Dilengkapi informasi tanggal dan emosi
-📊 Insight Emosi
+
+- 📊 Insight Emosi
 Ringkasan sederhana dari data refleksi
 Membantu pengguna melihat pola emosi secara umum
-💡 Daily Light (Quote Harian)
+
+- 💡 Daily Light (Quote Harian)
 Kutipan singkat yang bersifat menenangkan dan suportif
 Data diambil dari REST API
 Mendukung fallback ke data lokal jika API tidak tersedia
-👤 Profil Pengguna
+
+- 👤 Profil Pengguna
 Menampilkan informasi akun
 Mengubah nama tampilan
 Logout dari aplikasi
@@ -53,3 +59,15 @@ Logout dari aplikasi
 3. Pertanyaan refleksi & quote diambil dari REST API
 4. Jika API tidak tersedia, sistem menggunakan data lokal
 5. Data ditampilkan kembali dalam bentuk timeline dan insight
+
+# Tautan Aplikasi
+https://lumiere-healths.netlify.app/
+
+# Demo Aplikasi
+
+# Tampilan
+
+
+
+
+
