@@ -1,7 +1,7 @@
 # 🌟 Lumière
 Mood Tracker & Reflective Journaling Application
 
-📌 Deskripsi aplikasi
+# 📌 Deskripsi aplikasi
 Lumière adalah aplikasi mood tracker berbasis refleksi diri yang dirancang untuk membantu pengguna meningkatkan kesadaran emosional (self-awareness) melalui pencatatan perasaan dan journaling singkat secara rutin.
 Aplikasi ini memungkinkan pengguna untuk:
 Memilih emosi yang sedang dirasakan
@@ -10,7 +10,7 @@ Menyimpan dan meninjau kembali catatan emosi
 Melihat ringkasan pola perasaan dari waktu ke waktu
 Lumière tidak berfungsi sebagai alat diagnosis kesehatan mental, melainkan sebagai media refleksi pribadi yang bersifat preventif dan suportif.
 
-#✨ Fitur Utama
+# ✨ Fitur Utama
 🔐 Autentikasi Pengguna
 Login & Register menggunakan Firebase Authentication
 Akun tersimpan aman dan dapat digunakan di berbagai perangkat
@@ -36,7 +36,7 @@ Menampilkan informasi akun
 Mengubah nama tampilan
 Logout dari aplikasi
 
-#🛠️ Teknologi yang Digunakan
+# 🛠️ Teknologi yang Digunakan
 • Frontend
   - Flutter
   - Dart
@@ -47,7 +47,7 @@ Logout dari aplikasi
   - REST API
   - Fallback ke local data jika API gagal
 
-#🗂️ Arsitektur Sistem
+# 🗂️ Arsitektur Sistem
 1. User login/register melalui Firebase Authentication
 2. Data refleksi disimpan ke Firebase Firestore
 3. Pertanyaan refleksi & quote diambil dari REST API
